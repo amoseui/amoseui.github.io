@@ -35,7 +35,7 @@ _____________________________________________
     {block:Description}
         <meta name="description" content="{MetaDescription}" />
     {/block:Description}
-
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" charset="UTF-8">
 
     <!-- for Facebook -->
@@ -304,6 +304,15 @@ a:hover{color:{color:Main Color};}
   <p class="light">{Description}</p>
   {/block:IfDescription}
 
+  <div class=”widget-list”>
+    <a href=/tagged/책>book</a>
+    <a href=/tagged/아이템>item</a>
+    <a href=/tagged/영화>movie</a>
+    <a href=/tagged/음악>music</a>
+    <a href=/tagged/뉴스>news</a>
+    <a href=/tagged/티비프로그램>tv</a>
+  </div>
+    
   <!--MENU-->
   <ul>
     {block:Pages}
@@ -312,8 +321,6 @@ a:hover{color:{color:Main Color};}
       </li>
     {/block:Pages}
   </ul>
-
-  <div class="spaceSmall"></div> <!--space at end of header-->
 </div>
 <!--++++++++++-->
 <!--END HEADER-->
@@ -332,7 +339,6 @@ a:hover{color:{color:Main Color};}
 <!--CONTENT-->
 <!--+++++++-->
 <div class="row">
-<div class="spaceSmall"></div> <!--space after header-->
   <ol class="posts">
 
 <!--POST TYPES-->
