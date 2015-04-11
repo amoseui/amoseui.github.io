@@ -425,7 +425,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -543,7 +544,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -661,7 +663,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -790,7 +793,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -906,7 +910,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1024,7 +1029,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1155,7 +1161,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1273,7 +1280,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1389,7 +1397,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1508,7 +1517,8 @@ a:hover{color:{color:Main Color};}
 
           <li>
             {block:Date}
-              <i class="fa fa-clock-o"></i> {timeAgo}
+              <i class="fa fa-clock-o"></i>
+              {DayOfMonth} {Month} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
