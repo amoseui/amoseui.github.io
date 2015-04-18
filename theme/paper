@@ -364,7 +364,7 @@ a:hover{color:{color:Main Color};}
           {/block:IfAuthor}
 
           {block:Date}
-              on {DayOfMonth} {Month} {Year}
+              on {Month} {DayOfMonth} {Year}
           {block:Date}
 
         {block:ContentSource}
@@ -426,7 +426,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -476,7 +476,7 @@ a:hover{color:{color:Main Color};}
           {/block:IfAuthor}
 
           {block:Date}
-              on {DayOfMonth} {Month} {Year}
+              on {Month} {DayOfMonth} {Year}
           {block:Date}
 
         {block:ContentSource}
@@ -545,7 +545,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -599,7 +599,7 @@ a:hover{color:{color:Main Color};}
           {/block:IfAuthor}
 
           {block:Date}
-              on {DayOfMonth} {Month} {Year}
+              on {Month} {DayOfMonth} {Year}
           {block:Date}
 
         {block:ContentSource}
@@ -664,7 +664,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -714,7 +714,7 @@ a:hover{color:{color:Main Color};}
           {/block:IfAuthor}
 
           {block:Date}
-              on {DayOfMonth} {Month} {Year}
+              on {Month} {DayOfMonth} {Year}
           {block:Date}
 
         {block:ContentSource}
@@ -794,7 +794,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -844,7 +844,7 @@ a:hover{color:{color:Main Color};}
           {/block:IfAuthor}
 
         {block:Date}
-            on {DayOfMonth} {Month} {Year}
+            on {Month} {DayOfMonth} {Year}
         {block:Date}
 
         {block:ContentSource}
@@ -911,7 +911,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -963,7 +963,7 @@ a:hover{color:{color:Main Color};}
         {/block:IfAuthor}
 
         {block:Date}
-            on {DayOfMonth} {Month} {Year}
+            on {Month} {DayOfMonth} {Year}
         {block:Date}
 
         {block:ContentSource}
@@ -1030,7 +1030,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1088,7 +1088,7 @@ a:hover{color:{color:Main Color};}
         {/block:IfAuthor}
 
         {block:Date}
-            on {DayOfMonth} {Month} {Year}
+            on {Month} {DayOfMonth} {Year}
         {block:Date}
 
         {block:ContentSource}
@@ -1162,7 +1162,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1212,7 +1212,7 @@ a:hover{color:{color:Main Color};}
         {/block:IfAuthor}
 
         {block:Date}
-            on {DayOfMonth} {Month} {Year}
+            on {Month} {DayOfMonth} {Year}
         {block:Date}
 
         {block:ContentSource}
@@ -1281,7 +1281,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1333,7 +1333,7 @@ a:hover{color:{color:Main Color};}
         {/block:IfAuthor}
 
         {block:Date}
-            on {DayOfMonth} {Month} {Year}
+            on {Month} {DayOfMonth} {Year}
         {block:Date}
 
         {block:ContentSource}
@@ -1398,7 +1398,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -1461,7 +1461,7 @@ a:hover{color:{color:Main Color};}
           {/block:IfAuthor}
 
           {block:Date}
-              on {DayOfMonth} {Month} {Year}
+              on {Month} {DayOfMonth} {Year}
           {block:Date}
 
         {block:ContentSource}
@@ -1518,7 +1518,7 @@ a:hover{color:{color:Main Color};}
           <li>
             {block:Date}
               <i class="fa fa-clock-o"></i>
-              {DayOfMonth} {Month} {Year}
+              {Month} {DayOfMonth} {Year}
             {/block:Date}
           </li>
           {/block:IndexPage}
@@ -2096,4 +2096,3 @@ if (matchMedia('only screen and (max-width: 480px)').matches)
 
 </body>
 </html>
-
