@@ -1,3 +1,3 @@
 # amoseui.github.io
 
-https://amoseui.com
+https://www.amoseui.com
